@@ -1,0 +1,19 @@
+{
+        "id": 1,
+        "title": "Trousers and jeans",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/0135/168/800/0135168800_2_7_1.jpg?t=1667488934402",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        },
+        "Name": "Hony",
+        "Color1": "Black",
+        "Color2": "Red",
+        "Color3": "Blue",
+        "Color4": "Fuji",
+        "Color5": "Red",
+        "Color6": "local"
+}
